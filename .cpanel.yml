@@ -1,0 +1,4 @@
+Bereitstellung :
+  Aufgaben :
+    - DEPLOYPATH = / home / chrivyio / public_html / exportieren
+    - / bin / cp -R * $ DEPLOYPATH
